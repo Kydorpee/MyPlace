@@ -83,9 +83,13 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## 🖼️ Capturas de Tela
 
-![Tela de Plantio](https://via.placeholder.com/800x600)
-![Tela de Pesca](https://via.placeholder.com/800x600)
-![Fazenda Personalizada](https://via.placeholder.com/800x600)
+![Tela de Plantio]![image](https://github.com/user-attachments/assets/129a25ad-546b-4605-bb42-64ed8d8d9d3e)
+![Fazenda Personalizada](https://github.com/user-attachments/assets/97e82f47-273c-4db2-b998-b53c21e02345)
+
+
+
+
+
 
 ## ✨ Créditos
 
