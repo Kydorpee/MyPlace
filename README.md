@@ -42,13 +42,8 @@ O objetivo é criar a melhor fazenda enquanto aproveita uma experiência imersiv
 
 ## 🔧 Dependências
 
-- Python 3.10+
-- Pygame 2.1+
+Unity
 
-Para instalar as dependências:
-```bash
-pip install -r requirements.txt
-```
 
 ## 📖 Recursos Futuramente Planejados
 
@@ -77,9 +72,6 @@ Contribuições são bem-vindas! Siga os passos abaixo:
    ```
 5. Abra um Pull Request.
 
-## 📜 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 🖼️ Capturas de Tela
 
@@ -109,5 +101,5 @@ Agradecemos à comunidade de desenvolvedores indie e a todos que apoiaram este p
 
 ---
 
-**Divirta-se jogando o My Place 2D! 🌾🎣**
+**Divirta-se jogando o My Place! 🌾🎣**
 
