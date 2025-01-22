@@ -83,7 +83,10 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## 🖼️ Capturas de Tela
 
-[image](https://github.com/user-attachments/assets/129a25ad-546b-4605-bb42-64ed8d8d9d3e)
+![image](https://github.com/user-attachments/assets/129a25ad-546b-4605-bb42-64ed8d8d9d3e)
+
+
+
 
 
 
