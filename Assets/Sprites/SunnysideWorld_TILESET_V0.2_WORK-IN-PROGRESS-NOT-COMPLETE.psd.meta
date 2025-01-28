@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SunnysideWorld_TILESET_V0.2_WORK-IN-PROGRESS-NOT-COMPLETE_0: 3002271073710589997
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

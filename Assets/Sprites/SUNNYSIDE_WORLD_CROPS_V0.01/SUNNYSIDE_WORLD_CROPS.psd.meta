@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SUNNYSIDE_WORLD_CROPS_0: -9051508356728764188
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
