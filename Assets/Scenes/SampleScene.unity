@@ -290,7 +290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   detectingPlayer: 0
-  WaterValue: 5
+  WaterValue: 50
 --- !u!1 &297163788
 GameObject:
   m_ObjectHideFlags: 0
@@ -25198,7 +25198,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   detectingPlayer: 0
-  WaterValue: 5
+  WaterValue: 50
 --- !u!1 &1417963374
 GameObject:
   m_ObjectHideFlags: 0
