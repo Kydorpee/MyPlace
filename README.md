@@ -23,54 +23,12 @@ O objetivo é criar a melhor fazenda enquanto aproveita uma experiência imersiv
 - **Pesca:** Use a vara de pescar com o botão **direito do mouse** próximo à água.
 - **Coleta:** Pressione **E** para coletar recursos ao se aproximar.
 
-## 📦 Instalação
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/myplace.git
-   ```
-2. Navegue até a pasta do projeto:
-   ```bash
-   cd myplace
-   ```
-3. Execute o jogo:
-   ```bash
-   ./start_game.sh
-   ```
-
-> **Nota:** Certifique-se de que você tenha as dependências listadas na seção abaixo instaladas.
-
-## 🔧 Dependências
-
-Unity
-
-
-## 📖 Recursos Futuramente Planejados
-
-- Sistema de clima (chuva, neve, estações).
-- Mais variedades de plantas, peixes e itens colecionáveis.
-- Criação de animais e produção de leite, ovos, etc.
-- Modo multiplayer cooperativo.
-- Loja para comprar e vender produtos.
 
 ## 🤝 Contribuições
 
-Contribuições são bem-vindas! Siga os passos abaixo:
+Dicas são sempre bem vindas!
 
-1. Faça um fork deste repositório.
-2. Crie uma nova branch para suas alterações:
-   ```bash
-   git checkout -b minha-nova-feature
-   ```
-3. Commit suas alterações:
-   ```bash
-   git commit -m 'Adiciona uma nova feature'
-   ```
-4. Envie suas alterações:
-   ```bash
-   git push origin minha-nova-feature
-   ```
-5. Abra um Pull Request.
 
 
 ## 🖼️ Capturas de Tela
@@ -88,18 +46,5 @@ Contribuições são bem-vindas! Siga os passos abaixo:
 
 
 
-
-## ✨ Créditos
-
-- **Desenvolvedor Principal:** [Seu Nome](https://github.com/Kydorpee)
-- **Arte Pixel:** [Artista](https://www.pixilart.com)
-- **Música e Efeitos Sonoros:** [Compositor]((https://www.epidemicsound.com/pt/))
-
-## 🌟 Agradecimentos
-
-Agradecemos à comunidade de desenvolvedores indie e a todos que apoiaram este projeto. Sua ajuda torna isso possível!
-
----
-
-**Divirta-se jogando o My Place! 🌾🎣**
+**Divirta-se testando o My Place! 🌾🎣**
 
